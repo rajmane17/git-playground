@@ -2,4 +2,6 @@ First fix
 
 fix no. 2
 
-another bug detected and fixed.
+one more bug found
+
+fixed that successfully
